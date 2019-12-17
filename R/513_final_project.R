@@ -1,10 +1,3 @@
-# CS_513_final_project
-# Spam Message Detection Approach with Classification Method
-# Ying Lu
-# Yangyang Liu
-# Jingxuan Ai
-# Yuqi Tang
-
 rm(list = ls())
 
 library(formattable)        # install.packages("formattable")    
